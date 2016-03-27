@@ -1,7 +1,7 @@
 # 证券市场基本法律法规
 ## 第1章 证券市场基本法律法规
 ### 考点概览
-<table>
+<table style="width:100%">
   <tr>
     <td align='center'>考试大纲</td>
     <td align='center'>考查要点</td>
@@ -317,7 +317,7 @@
 
 **公司设立登记的要求**  
 
-<table>
+<table style="width:100%">
   <thead>
     <tr>
       <th style="text-align:center;width:220px;">要求</th>
